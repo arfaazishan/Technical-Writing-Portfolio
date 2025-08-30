@@ -7,7 +7,7 @@ This guide introduces the basics of APIs, explains the purpose and structure of 
 
 ---
 
-## What is an API? (Beginner Basics)  
+## What is an API?   
 An API (Application Programming Interface) defines a set of rules that allow one application to interact with another. It acts as an intermediary that processes requests and returns responses between systems.  
 
 Practical examples of APIs include:  
@@ -100,7 +100,7 @@ A glossary is a valuable reference for beginners learning API terminology. Below
 ---
 
 ## So, what did we learn about API documentation?  
-API documentation serves as the bridge between an API and its users. By mastering the fundamentals — structure, best practices, and clarity — you create documentation that improves developer experience and encourages wider adoption.  
+API documentation serves as the bridge between an API and its users. By mastering the fundamentals like structure, best practices, and clarity, you create documentation that improves developer experience and encourages wider adoption.  
 
 Start by documenting a single endpoint, experiment with available tools, and study examples from industry leaders. With time and practice, you will build documentation that is both technically sound and highly usable.  
 
