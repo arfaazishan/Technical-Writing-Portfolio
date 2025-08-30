@@ -7,6 +7,19 @@ This guide introduces the basics of APIs, explains the purpose and structure of 
 
 ---
 
+## Table of Contents  
+ 
+1. [What is an API?](#what-is-an-api)   
+2. [What is API Documentation?](#what-is-api-documentation)  
+3. [Key Elements of Great API Documentation](#key-elements-of-great-api-documentation)  
+4. [Best Practices for Writing API Documentation](#best-practices-for-writing-api-documentation)  
+5. [Tools for Creating API Documentation](#tools-for-creating-api-documentation)  
+6. [Real-World Examples of High-Quality API Documentation](#real-world-examples-of-high-quality-api-documentation)
+7. [Bonus: Glossary of API Terms](#bonus-glossary-of-api-terms)
+8. [So, what did we learn about API documentation?](#so-what-did-we-learn-about-api-documentation)
+
+---
+
 ## What is an API?   
 An API (Application Programming Interface) defines a set of rules that allow one application to interact with another. It acts as an intermediary that processes requests and returns responses between systems.  
 
