@@ -1,6 +1,6 @@
 # Banking API Documentation (Sample Doc for Portfolio)
 
-Welcome to the **Banking API**. This API enables secure integration with banking services such as accounts, credit cards, and payments.
+Welcome to the **Banking API**. This API enables secure integration with banking services such as accounts, viewing transactions, credit cards payments, and fund transfers.
 
 ### Base URL:  
 ```
