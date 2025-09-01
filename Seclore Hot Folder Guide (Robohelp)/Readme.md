@@ -1,2 +1,10 @@
-The project files can be vew using Adobe Robohelp.
-To view the published files, download the folder and open default.htm in your browser.
+### To view the project files:
+- Download the folder
+- Extract the files
+- Open the .rhpj file in Adobe Robohelp
+
+
+### To view the published files:
+- Download the folder 
+- Extract the files
+- Open default.htm in your browser
